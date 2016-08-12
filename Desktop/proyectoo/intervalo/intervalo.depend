@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1471029680 source:c:\users\lenovo\desktop\estructura de datos\intervalo\main.cpp
+	<iostream.h>
+	<stdlib.h>
+	<iostream>
+	<cstdlib>
+
